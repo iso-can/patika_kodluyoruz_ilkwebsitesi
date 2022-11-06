@@ -1,2 +1,7 @@
-# patika_kodluyoruz_ilkwebsitesi
-İlk Web Sitesi
+# Deneme
+
+## Alt Bilgi
+adasdasdad asd asd asd
+asdad asd 
+
+[lorem ipsum](http://google.com)
